@@ -1,4 +1,4 @@
-{"version_code":452649,"content":"
+{"version_code": 452649,"content":"
 
 <p>تحديث 7.20</p>
 
