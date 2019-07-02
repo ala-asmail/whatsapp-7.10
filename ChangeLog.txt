@@ -1,4 +1,4 @@
-{"version_code": 452649,"content":"
+{"version_code":452649,"content":"
 
 <p>تحديث 7.20</p>
 
@@ -22,3 +22,4 @@
 <p> Update method: Click Open. You will see the explanation article. You will find links in golden, red and blue. Download and install the new version without deleting the old version </ p>
 
 ","url":"https://www.free-netsyr.com/2019/06/2020_20.html"
+}
